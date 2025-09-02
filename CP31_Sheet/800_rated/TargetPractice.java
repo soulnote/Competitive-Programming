@@ -25,5 +25,6 @@ public class TargetPractice {
             }
             System.out.println(totalSum);
         }
+        sc.close();
     }
 }

@@ -36,6 +36,7 @@ public class UnitedWeStand {
             }
 
         }
+        sc.close();
     }
 }
 // 5

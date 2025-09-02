@@ -29,6 +29,7 @@ public class SequenceGame {
                 System.out.print(list.get(i) + " ");
             }
         }
+        sc.close();
     }
 }
 // 6
